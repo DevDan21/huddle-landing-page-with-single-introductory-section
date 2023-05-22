@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github] (https://github.com/DevDan21/huddle-landing-page-with-single-introductory-section.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Huddle Landing page] (https://devdan21.github.io/huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
